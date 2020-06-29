@@ -17,7 +17,7 @@ body {
   font-weight: 400;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-around;
   min-height: 100vh;
   color: var(--grayish-blue);
   padding: 1em;
@@ -37,7 +37,7 @@ p {
 
 .container {
   margin: 0 auto;
-  width: 95%;
+  min-width: 95%;
   max-width: 375px;
 }
 
@@ -131,7 +131,12 @@ p {
   }
 
   .container {
+    width: 90%;
     max-width: 1440px;
+  }
+
+  .price__card {
+    padding: 2em;
   }
 
   .card-top {
