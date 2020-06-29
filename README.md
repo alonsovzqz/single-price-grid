@@ -4,4 +4,4 @@ This is one challenge from [Frontend Mentor](https://www.frontendmentor.io). Bui
 
 ## Result
 
-You can view the final result in the following link [https://single-price-grid-lemon.vercel.app/](https://single-price-grid-lemon.vercel.app/).
+You can view the final result in the following link [https://single-price-grid-nu.vercel.app/](https://single-price-grid-nu.vercel.app/).
